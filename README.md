@@ -1,4 +1,4 @@
-# Minesweeper Webpage
+# Minesweeper
 ![minesweeperwin](https://user-images.githubusercontent.com/62526327/88889899-cbdf3700-d20e-11ea-8d1a-645aa5cd1ea2.PNG)
 ![minesweeperwin](https://user-images.githubusercontent.com/62526327/88890058-0cd74b80-d20f-11ea-80a5-694bd0f2081c.PNG)
 
