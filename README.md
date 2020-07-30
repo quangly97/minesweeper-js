@@ -1,6 +1,6 @@
 # Minesweeper Webpage
 ![minesweeperwin](https://user-images.githubusercontent.com/62526327/88889899-cbdf3700-d20e-11ea-8d1a-645aa5cd1ea2.PNG)
-![minesweeper](https://user-images.githubusercontent.com/62526327/88889901-cbdf3700-d20e-11ea-9b33-73c87c97a38e.PNG)
+![minesweeperwin](https://user-images.githubusercontent.com/62526327/88890058-0cd74b80-d20f-11ea-80a5-694bd0f2081c.PNG)
 
 ## Brief
 A webpage to play minesweeper
