@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 100%;
+    text-align: center;
+}
+
+.grid{
+    margin: auto;
+    width: 756px;
+    height: 588px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid div{    
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+}
+
+.chartreuse{
+    background: chartreuse;
+}
+
+.green{
+    background-color: #009908;
+}
+
+.information{
+    padding: 0.5em;
+    align-content: center;
+    font-size: 40px;
+}
+
+#result{
+    padding: 0.5em;
+    font-size: 40px;
+    color: green;
+    font-weight: 200;
+    text-transform: uppercase;
+}
+
+.valid{
+    height: 40px;
+    width: 40px;
+}
+
+.bomb{
+    height: 40px;
+    width: 40px;
+    font-size: 30px;
+}
+
+.flag{
+    font-size: 30px;
+}
+
+.tan{
+    background-color: #c9b361;
+}
+
+.darktan{
+    background-color: #f0d575;
+}
+
+.one{
+    font-size: 30px;
+    color: blue;
+    text-align: center;
+}
+
+.two{
+    font-size: 30px;
+    color: green;
+    text-align: center;
+}
+
+.three{
+    font-size: 30px;
+    color: red;
+    text-align: center;
+}
+
+.four{
+    font-size: 30px;
+    color: purple;
+    text-align: center;
+}
+
+.five{
+    font-size: 30px;
+    color: orange;
+    text-align: center;
+}
+
+.large{
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
